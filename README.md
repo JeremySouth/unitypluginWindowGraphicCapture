@@ -1,0 +1,2 @@
+# unitypluginWindowGraphicCapture
+WindowGraphicCapture plugin for Unity
